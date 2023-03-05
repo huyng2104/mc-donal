@@ -1,0 +1,85 @@
+.all {
+    display: flex;
+    justify-content: center;
+}
+
+.login {
+    border: 5px solid white;
+    width: 333px;
+    height: 500px;
+    background: linear-gradient(179.52deg, rgba(254, 193, 87, 0.18) 0.41%, rgba(252, 8, 8, 0.18) 101.51%, rgba(254, 193, 87, 0) 102.73%);
+
+}
+
+h1 {
+    padding-top: 20px;
+    padding-left: 65px;
+    color: orangered;
+    font-weight: 500;
+    font-size: 40px;
+
+}
+
+.content {
+    margin-left: 35px;
+
+    background-color: #FE9E2E;
+    width: 260px;
+    height: 310px;
+    border-radius: 10px;
+}
+
+h3 {
+    color: seashell;
+    text-align: center;
+    padding-top: 30px;
+    font-family: 'Asap';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+}
+
+.ip1 {
+    margin-left: 13px;
+    border: none;
+    border-radius: 5px;
+    width: 230px;
+    height: 30px;
+    margin-top: 10px;
+}
+
+.ip2 {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.t1 {
+    margin-left: 60px;
+}
+
+button {
+    margin-left: 13px;
+    border: none;
+    border-radius: 5px;
+    width: 230px;
+    height: 30px;
+    margin-top: 10px;
+    background-color: #FC0808CF;
+    color: white;
+}
+
+p {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+button:hover {
+    color: #FC0808CF;
+    background-color: white;
+    border: 1px solid#FC0808CF;
+    ;
+}
